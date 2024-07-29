@@ -8,7 +8,7 @@ Welcome to my professional portfolio! This repository showcases various data ana
 - **Objective:** Utilize techniques learned during HDip Level 8 to detect credit card fraud.
 - **Skills Used:** Data Analytics, Machine Learning, Python
 - **Highlights:** Implemented various machine learning algorithms to accurately predict fraudulent transactions.
-- **Code:** [View Project](https://github.com/yourusername/capstone-credit-card-fraud)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Capstone_project_Spatial_distance_credit_card_fraud.ipynb))
 
 ### 2. Data Visualization for Forecasting Video Sales
 - **Objective:** Create visualizations to forecast video sales.
