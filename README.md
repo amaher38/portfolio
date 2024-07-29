@@ -44,7 +44,7 @@ Welcome to my professional portfolio! This repository showcases various data ana
 - **Objective:** Predict likely employee churn using integrated statistical and machine learning techniques.
 - **Skills Used:** Statistics, Machine Learning, Data Preparation, Python
 - **Highlights:** Achieved high prediction accuracy, enabling proactive retention strategies.
-- **Code:** [View Project](https://github.com/yourusername/employee-churn-prediction)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Statistics_Machine_learning_Data_prep_Human_Resource.ipynb)
 
 ### 8. Time Series Analysis in Disney Company
 - **Objective:** Perform time series analysis to forecast various business metrics for Disney.
