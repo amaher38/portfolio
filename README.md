@@ -50,7 +50,7 @@ Welcome to my professional portfolio! This repository showcases various data ana
 - **Objective:** Perform time series analysis to forecast various business metrics for Disney.
 - **Skills Used:** Time Series Analysis, Python, Data Analytics
 - **Highlights:** Provided actionable insights to support strategic decision-making.
-- **Code:** [View Project](https://github.com/yourusername/disney-time-series-analysis)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Time_Series_Analysis_Machine_Learning.ipynb)
 
 ## Skills
 
