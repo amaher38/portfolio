@@ -14,7 +14,7 @@ Welcome to my professional portfolio! This repository showcases various data ana
 - **Objective:** Create visualizations to forecast video sales.
 - **Skills Used:** Data Visualization, Tableau, Python
 - **Highlights:** Developed interactive dashboards to help stakeholders understand sales trends.
-- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Data_Preparation_Andrew_Maher_%20Level%208_Haulage%20Company.ipynb)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Data%20_Visualization%20_Andrew%20_Maher%20_Level%208_Video%20Games.ipynb)
 
 ### 3. Haulage Company: Forecasting Likely Breakdowns
 - **Objective:** Analyze data from a haulage company's Scania truck fleet to predict and prevent air pressure system failures, reducing maintenance costs.
