@@ -38,7 +38,7 @@ Welcome to my professional portfolio! This repository showcases various data ana
 - **Objective:** Develop a recommendation system to suggest products to customers based on their purchase history.
 - **Skills Used:** Machine Learning, Python, Data Analytics
 - **Highlights:** Implemented collaborative filtering to enhance user experience.
-- **Code:** [View Project](https://github.com/yourusername/recommendation-system)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Recommendation_System_%26_%20Dashboard_Machine_Learning_%20%26_Data_Visualization.ipynb)
 
 ### 7. Integrated Stats & Machine Learning for Employee Churn Prediction
 - **Objective:** Predict likely employee churn using integrated statistical and machine learning techniques.
