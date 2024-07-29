@@ -14,25 +14,25 @@ Welcome to my professional portfolio! This repository showcases various data ana
 - **Objective:** Create visualizations to forecast video sales.
 - **Skills Used:** Data Visualization, Tableau, Python
 - **Highlights:** Developed interactive dashboards to help stakeholders understand sales trends.
-- **Code:** [View Project](https://github.com/yourusername/forecast-video-sales)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Data_Preparation_Andrew_Maher_%20Level%208_Haulage%20Company.ipynb)
 
 ### 3. Haulage Company: Forecasting Likely Breakdowns
 - **Objective:** Analyze data from a haulage company's Scania truck fleet to predict and prevent air pressure system failures, reducing maintenance costs.
 - **Skills Used:** Data Analytics, Python, Tableau
 - **Highlights:** Identified key failure factors and recommended maintenance schedules, projecting a 20% cost reduction.
-- **Code:** [View Project](https://github.com/yourusername/haulage-breakdowns)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Data_Preparation_Andrew_Maher_%20Level%208_Haulage%20Company.ipynb)
 
 ### 4. Credit Card Fraud Detection
 - **Objective:** Detect fraudulent transactions using advanced data analytics techniques.
 - **Skills Used:** Machine Learning, Python, Data Analytics
 - **Highlights:** Improved detection accuracy using ensemble methods.
-- **Code:** [View Project](https://github.com/yourusername/credit-card-fraud-detection)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Machine_learning_Andrew_Maher_%20Credit_Card_Fraud_Intregated.ipynb)
 
 ### 5. Market Basket Analysis
 - **Objective:** Analyze customer purchase patterns to identify associations between products.
 - **Skills Used:** Association Rules, Python, Data Analytics
 - **Highlights:** Provided insights to optimize product placement and promotions.
-- **Code:** [View Project](https://github.com/yourusername/market-basket-analysis)
+- **Code:** [View Project](https://github.com/amaher38/portfolio/blob/main/Market_basket_Analysis_Machine_learning.ipynb)
 
 ### 6. Recommendation System
 - **Objective:** Develop a recommendation system to suggest products to customers based on their purchase history.
